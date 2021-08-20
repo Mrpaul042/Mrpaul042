@@ -6,8 +6,8 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 <br />
 
 ## I'm a Python programmer💻, Full Stack Web Developer👨‍💻!!
-- 👀 I’m interested in Softare Development, Web development,Python.
-- 🌱 I’m currently learning DS Algo,Full Stack Web Development.
+- 👀 I’m interested in Softare Development, Web development,Python programming
+- 🌱 I’m currently learning Full Stack Web Development,DS Algo.
 - 💞️ I’m looking to work as -Software Engineer,Associate,Software Developer,Analyst.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/souravpaul-a2090b1ab/),[Gmail](mailto:sourav222paul@gmail.com).
 - 😄 Pronouns: He/Him 
