@@ -5,7 +5,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 
 <br />
 
-## I'm a Python programmer💻, Full Stack Web Developer👨‍💻!!
+## I'm a Full Stack Web Developer👨‍💻!!
 - 👀 I’m interested in Softare Development, Web development,Python programming
 - 🌱 I’m currently learning Full Stack Web Development,DS Algo.
 - 💞️ I’m looking to work as -Software Engineer,Associate,Software Developer,Analyst.
