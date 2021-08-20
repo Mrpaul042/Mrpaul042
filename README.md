@@ -3,6 +3,8 @@
 
 I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agartala.
 
+<br />
+
 ## I'm a Python programmer💻, Full Stack Web Developer👨‍💻!!
 - 👀 I’m interested in Softare Development, Web development,Python.
 - 🌱 I’m currently learning DS Algo,Full Stack Web Development.
@@ -15,7 +17,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 <h2 align="center">My Github Statistics: </h2>   
   
 <p align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=Mrpaul042&&show_icons=true&title_color=ffba2c&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 />
+<img src=https://github-readme-stats.vercel.app/api?username=Mrpaul042&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 />
 </p>
 
 <br />
@@ -27,8 +29,20 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 <img src=https://github-readme-streak-stats.herokuapp.com/?user=Mrpaul042&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/>
 </p>  
 
+<br />
+
+
  <p align="center">
   <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+</p>
+
+<br />
+
+## Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/souravpaul-a2090b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souravpaul-a2090b1ab" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_paul_042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_paul_042" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -44,9 +58,15 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 
 <img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
 
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
+</a><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
+</a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
+</a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+</a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="50"/> </a> </p>
 
-<img src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" alt="Kotlin" width="50" height="50" />
+
+<br />
 
 ## Tools I use:
 
@@ -57,11 +77,6 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br />
 
-<img align="left" src="https://img.icons8.com/color/50/000000/gitlab.png" alt = "GitLab"/>
 
-<img alt = "Android Studio" width="50" height="50" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
-
-## Operating System I Use:
-
-<img  src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
