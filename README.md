@@ -41,7 +41,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 ## Connect with me:
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/souravpaul-a2090b1ab/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souravpaul-a2090b1ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/souravpaul-a2090b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/souravpaul-a2090b1ab" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_paul_042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_paul_042" height="30" width="40" /></a>
 </p>
 
