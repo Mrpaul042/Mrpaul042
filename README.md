@@ -13,7 +13,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 - 
 
 ### ⚡ Things I code with
-<pr>
+<span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -25,7 +25,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  
    <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Bootstrap" src="https://pbs.twimg.com/profile_images/1273081551354396672/-Tzadxix_400x400.jpg" />
+  <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/330px-Bootstrap_logo.svg.png" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 
 </pr>
@@ -36,7 +36,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
   
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=Mrpaul042&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 />
-</p>
+</span>
 
 <br />
 
