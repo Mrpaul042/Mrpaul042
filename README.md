@@ -30,7 +30,7 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 
 
 <!-- GitHub Stats -->
-<h2 align="center">My Github StatisticsU+1F60A: </h2>   
+<h2 align="center">My Github Statistics: </h2>   
   
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=Mrpaul042&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 />
