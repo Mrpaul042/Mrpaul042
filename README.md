@@ -2,6 +2,7 @@
 ### I'm Sourav Paul , Welcome to my GitHub Profile!
 
 I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agartala.
+Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.
 
 <br />
 
@@ -37,7 +38,7 @@ I have completed my B.Tech in Chemical Engineering(2021 Graduate) from @NIT Agar
 
 <br />
 
-<!-- GitHub Stats -->
+<!--https://github.com/ragavkumarv/ragavkumarv/blob/main/README.md#:~:text=I%20code%20with-,%F0%9F%98%84,-Cool%20Stats Cool Stats -->
 <h2 align="center">My contribution Streak: </h2>
 
 <p align="center">
